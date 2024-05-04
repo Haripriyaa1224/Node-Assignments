@@ -1,0 +1,15 @@
+{
+  "name": "@haripriyaa1224/binarysearch",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/Haripriyaa1224/Node-Assignments/tree/main/binarysearch",
+  "scripts": {
+    "start":"node index.js",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
