@@ -1,13 +1,13 @@
 {
   "name": "@haripriyaa1224/mypackage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "I am creating a package for HOF functions i.e.,sum, removeDuplicates, findMin, findMax",
   "main": "index.js",
   "type": "module",
   "repository": "https://github.com/Haripriyaa1224/Node-Assignments/tree/main/myPackage",
   "scripts": {
     "start":"node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "keywords": [],
   "author": "",
